@@ -1,0 +1,61 @@
+﻿/* Color Style */
+
+::selection { background-color: #1c567f; }
+
+a { color: #1c567f; }
+
+#show-header { background-color: #1c567f; }
+
+.main-menu li a:hover, .main-menu li.current a { color: #1c567f; }
+
+.main-menu li.current a, .main-menu li:hover a { border-left: 3px solid #1c567f; }
+
+.header-bottom .social-icons a:hover i { border-color: #1c567f; color: #1c567f; }
+
+span.label { background-color: #1c567f; }
+
+.section-overlay { background-color: #1c567f; }
+
+.pace .pace-progress { background-color: #1c567f; }
+
+.btn { color: #1c567f; }
+
+.mini-btn, .small-btn, .medium-btn, .large-btn { border-color: #1c567f; }
+
+.btn:hover { border-color: #1c567f; box-shadow: inset 0px -50px 0 #1c567f; -moz-box-shadow: inset 0px -50px 0 #1c567f; -webkit-box-shadow: inset 0px -50px 0 #1c567f; }
+
+.light-btn:hover, .light-btn:hover i { color: #1c567f!important; }
+
+i.fa { color: #0095ff; }
+
+i.small-icon. i.medium-icon, i.large-icon { color: #1c567f; border-color: #1c567f; }
+
+.next-section i.fa { color: #1c567f; }
+
+.service-box i.fa { color: #1c567f; }
+
+.milestone .milestone-number { color: #1c567f; }
+
+input[type=submit], input[type=submit]:focus { background-color: #1c567f; }
+
+input.error, textarea.error { border-color: #1c567f; }
+
+.portfolio-filter a span { border-color: #1c567f; }
+
+.portfolio-filter a.current, .portfolio-filter a:hover { color: #1c567f; }
+
+.portfolio-filter a span { border-color: #1c567f; }
+
+.portfolio-filter a span i { color: #1c567f; }
+
+.item-image .item-overlay { background-color: #1c567f; }
+
+.project-page #project_close i { color: #1c567f; border-color: #1c567f; }
+
+.member-social a:hover i.fa-envelope { background: #1c567f; border-color: #1c567f; }
+
+.clients { background-color: #0582a5; }
+
+#close-contact i { color: #1c567f; border-color: #1c567f; }
+
+.owl-buttons > div i { background-color: #1c567f; }

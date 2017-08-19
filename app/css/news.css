@@ -1,0 +1,93 @@
+.zw_head {
+    width: 100%;
+    height: 388px;
+    background: #00B0F1;
+    text-align: center;
+    padding: 30px 0 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.zw_head h1 {
+    font-size: 28px;
+    color: #fff;
+    line-height: 52px;
+}
+
+.setactive1 {
+    -webkit-animation: 25s linear 0.4s normal none infinite running wave1;
+    animation: 25s linear 0.4s normal none infinite running wave1;
+    background: url("../images/wave1.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    height: 85px;
+    left: -236px;
+    position: absolute;
+    top: 330px;
+    width: 400%;
+    z-index: 999;
+}
+
+.setactive2 {
+    -webkit-animation: 60s linear 0.4s normal none infinite running wave2;
+    animation: 60s linear 0.4s normal none infinite running wave2;
+    background: url("../images/wave2.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 272px;
+    width: 400%;
+    z-index: 998;
+}
+
+@-webkit-keyframes wave1 {
+    0% {
+        left: -236px;
+    }
+    100% {
+        left: -1233px;
+    }
+}
+
+@keyframes wave1 {
+    0% {
+        left: -236px;
+    }
+    100% {
+        left: -1233px;
+    }
+}
+
+@keyframes wave1 {
+    0% {
+        left: -236px;
+    }
+    100% {
+        left: -1233px;
+    }
+}
+
+@-webkit-keyframes wave2 {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -1009px;
+    }
+}
+
+@keyframes wave2 {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -1009px;
+    }
+}
+
+@keyframes wave2 {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -1009px;
+    }
+}
